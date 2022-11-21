@@ -9,7 +9,7 @@ int main(){
 
     switch (opzione){
         case 0:
-            area=((a+b)/2);
+            area=((a*b)/2);
             break;
         case 1:
             area=(a*a);
